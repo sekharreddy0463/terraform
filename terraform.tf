@@ -38,6 +38,8 @@ resource "aws_iam_user" "lb1" {
 
 
 
+
+
 terraform aws
 creating iam group
 
